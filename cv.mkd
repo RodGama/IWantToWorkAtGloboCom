@@ -1,19 +1,38 @@
-Vaga
+Vagas
 ====
-
-[Preencha aqui a(s) vaga(s) que você pretende ordenadas por seu interesse - a primeira é a a sua prioridade]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+Vagas de interesse : Área de Webmedia ,Área de Esporte e Techtudo.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Rodrigo Carvalho Gama de Lima
+Brasileiro – Solteiro – Data de nascimento: 24/02/1994
+Queimados, RJ
+Tel: (21) 3699-1125
+Cel: (21) 98287-5215
+Email: carvalho.rodrigo.gama@gmail.com
+Objetivo
+Iniciação no mercado de trabalho, busca por maiores conhecimentos na área de Tecnologia da Informação associando-os com a prática, com o fim de acrescentar e fortalecer seus estudos.
+Formação Acadêmica
+ Faculdade de Educação Tecnológica do Rio de Janeiro (FAETERJ) – ago/2013 – jun/2016
+Análise e Desenvolvimento de Sistemas Informatizados (cursando o
+4° período)
+ Universidade Gama Filho (UGF) – jan/2012 – jul/2013
+Cursou até o 3° período de Engenharia de Controle e Automação
+ Instituto de Educação Santo Antônio (IESA) – 2006 – 2011
+Idiomas
+ Inglês intermediário – realizando o curso de idiomas CNA desde 2012
+ Espanhol intermediário – formação escolar
+Informática
+ Domínio do Pacote Office
+ Domínio de linguagem C
+ Desenvolvimento em HTML , CSS , JQuery e Ruby on Rails
+ Iniciação em Banco de Dados
+ Iniciação em Sistemas Linux
+ Montagem e manutenção de rede de computadores
+Outras Atividades
+ Curso de Iniciação em Sistemas Linux realizado na FAETERJ entre setembro e outubro de 2013
+ Curso de Test Driven Development (TDD) realizado na FAETERJ entre setembro e outubro de 2013
+Características Pessoais
+ Boa lógica de programação, boas práticas. Pontual, proativo e dinâmico. Possui facilidade em trabalhar em equipe, pois acredita que a cooperação pode gerar maior resolubilidade.
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
